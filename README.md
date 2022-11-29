@@ -1,4 +1,5 @@
 # Praktichna4
+
 a = list(input("Введіть прізвище: "))
 
 for s in a:
